@@ -79,3 +79,8 @@ img {
     left: 0;
   }
 }
+
+.slick-slider .slick-track {
+  display: flex;
+  align-items: center;
+}
